@@ -31,6 +31,14 @@
         "4": {
             "name": "Boeing b737-700",
             "liveries": [
+                {
+                    "name": "delta green",
+                    "texture": [
+                        "https://www.geo-fs.com/models/aircraft/premium/737_700/specular.jpg",
+                        "https://i.ibb.co/b5MG2wF9/delta-green.png"
+                    ],
+                    "credits": "Air1usa"
+                }
             ],
             "labels": [
                 "Specular shader",
@@ -480,6 +488,14 @@
                     "texture": [
                         "https://www.geo-fs.com/models/aircraft/premium/777_300/specular_0.jpg",
                         "https://i.ibb.co/5xrWMg2r/ram-fictional.png"
+                    ],
+                    "credits": "Air1usa"
+                },
+                {
+                    "name": "GULF",
+                    "texture": [
+                        "https://www.geo-fs.com/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://i.ibb.co/TMFJZw3J/golf-777.png"
                     ],
                     "credits": "Air1usa"
                 }
