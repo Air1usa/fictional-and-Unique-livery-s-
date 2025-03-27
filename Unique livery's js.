@@ -78,6 +78,14 @@
                         "https://i.ibb.co/XZsThVfm/royal-jordanian-air-a380.png"
                     ],
                     "credits": "Air1usa"
+                },
+                {
+                    "name": "AA",
+                    "texture": [
+                        "https://www.geo-fs.com/models/aircraft/premium/a380/specular.jpg",
+                        "https://i.ibb.co/p6sQXLRm/aa-a380-old.png"
+                    ],
+                    "credits": "Air1usa"
                 }
             ],
             "labels": [
