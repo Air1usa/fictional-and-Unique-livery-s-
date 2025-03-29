@@ -1,7 +1,7 @@
 {
-    "name": "𝓤𝓷𝓲𝓺𝓾𝓮 𝓵𝓲𝓿𝓮𝓻𝔂'𝓼",
-    "color": "green",
-    "bgcolor": "red",
+    "name": "",
+    "color": "",
+    "bgcolor": "",
     "aircrafts": {
         "1": {
             "name": "Piper J3 Cub",
@@ -31,14 +31,6 @@
         "4": {
             "name": "Boeing b737-700",
             "liveries": [
-                {
-                    "name": "delta green",
-                    "texture": [
-                        "https://www.geo-fs.com/models/aircraft/premium/737_700/specular.jpg",
-                        "https://i.ibb.co/b5MG2wF9/delta-green.png"
-                    ],
-                    "credits": "Air1usa"
-                }
             ],
             "labels": [
                 "Specular shader",
@@ -79,22 +71,6 @@
         "10": {
             "name": "Airbus a380-800",
             "liveries": [
-                {
-                    "name": "Royal Jordanian",
-                    "texture": [
-                        "https://www.geo-fs.com/models/aircraft/premium/a380/specular.jpg",
-                        "https://i.ibb.co/XZsThVfm/royal-jordanian-air-a380.png"
-                    ],
-                    "credits": "Air1usa"
-                },
-                {
-                    "name": "AA",
-                    "texture": [
-                        "https://www.geo-fs.com/models/aircraft/premium/a380/specular.jpg",
-                        "https://i.ibb.co/p6sQXLRm/aa-a380-old.png"
-                    ],
-                    "credits": "Air1usa"
-                }
             ],
             "labels": [
                 "Specular shader",
@@ -483,22 +459,6 @@
         "25": {
             "name": "Boeing b777-300ER",
             "liveries": [
-                {
-                    "name": "RAM fictional",
-                    "texture": [
-                        "https://www.geo-fs.com/models/aircraft/premium/777_300/specular_0.jpg",
-                        "https://i.ibb.co/5xrWMg2r/ram-fictional.png"
-                    ],
-                    "credits": "Air1usa"
-                },
-                {
-                    "name": "GULF",
-                    "texture": [
-                        "https://www.geo-fs.com/models/aircraft/premium/777_300/specular_0.jpg",
-                        "https://i.ibb.co/N2bx5zCV/golf-777.png"
-                    ],
-                    "credits": "Air1usa"
-                }
             ],
             "labels": [
                 "Specular shader",
