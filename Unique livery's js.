@@ -434,6 +434,14 @@
         "24": {
             "name": "Airbus a350-900",
             "liveries": [
+                {
+                    "name": "coca cola",
+                    "texture": [
+                        "/models/aircraft/premium/a350/specular.jpg",
+                        "https://i.ibb.co/mFg15Fdx/The-Coca-Cola-Company-Airbus-A350-900-F-1.png"
+                    ],
+                    "credits": "Air1usa"
+                }
             ],
             "labels": [
                 "Specular shader",
