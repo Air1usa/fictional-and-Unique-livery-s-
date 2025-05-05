@@ -506,6 +506,14 @@
                         "https://i.ibb.co/5hWsxX8q/golf-777.png"
                     ],
                     "credits": "Air1usa"
+                },
+                {
+                    "name": " Saudi Arabia - Government",
+                    "texture": [
+                        "https://www.geo-fs.com/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://i.ibb.co/Tq2hpccQ/Kingdom-of-Saudi-Arabia-777-300er.png"
+                    ],
+                    "credits": "Air1usa"
                 }
             ],
             "labels": [
