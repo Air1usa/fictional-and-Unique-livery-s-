@@ -698,6 +698,13 @@
         "5229": {
             "name": "Lokheed Martin F35B Lightning II",
             "liveries": [
+               {
+                    "name": "SW",
+                    "texture": [
+                        "https://i.ibb.co/Yz053Ph/swa-f35.jpg",
+                    ],
+                    "credits": "Peachstar"
+                }
             ],
             "labels": [
                 "Texture"
